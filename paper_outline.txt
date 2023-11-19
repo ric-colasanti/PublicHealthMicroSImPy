@@ -2,7 +2,57 @@ Public health Microsimulation modelling with Python: A Tutorial
 
 Have to learn domain methods
 Python V R
+numpy matrix methods
+Tensorflow methods ( second paper )
 Markov cohort transition models
 Individual-based state-transition (or microsimulation) models
 Monty carlo error
 History of monty crlo
+Alison paper 
+R tutorial paper
+
+Why microsim
+  hetroenisity colum to dat see
+  understand at the micro level
+  individual histories matter
+
+
+Cohort V microsim death model from marois2021microsimulation
+Repoducing a population from limited data
+Repoduce the methods as python code
+
+
+
+
+
+Refs
+@article{krijkamp2018microsimulation,
+  title={Microsimulation modeling for health decision sciences using R: a tutorial},
+  author={Krijkamp, Eline M and Alarid-Escudero, Fernando and Enns, Eva A and Jalal, Hawre J and Hunink, MG Myriam and Pechlivanoglou, Petros},
+  journal={Medical Decision Making},
+  volume={38},
+  number={3},
+  pages={400--422},
+  year={2018},
+  publisher={SAGE Publications Sage CA: Los Angeles, CA}
+}
+
+
+@article{smith2021estimating,
+  title={Estimating health over space and time: A review of spatial microsimulation applied to public health},
+  author={Smith, Dianna M and Heppenstall, Alison and Campbell, Monique},
+  journal={J},
+  volume={4},
+  number={2},
+  pages={182--192},
+  year={2021},
+  publisher={MDPI}
+}
+
+
+@book{marois2021microsimulation,
+  title={Microsimulation Population Projections with SAS: A Reference Guide},
+  author={Marois, Guillaume and KC, Samir},
+  year={2021},
+  publisher={Springer Nature}
+}
