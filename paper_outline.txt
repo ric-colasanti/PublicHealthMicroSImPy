@@ -1,0 +1,8 @@
+Public health Microsimulation modelling with Python: A Tutorial
+
+Have to learn domain methods
+Python V R
+Markov cohort transition models
+Individual-based state-transition (or microsimulation) models
+Monty carlo error
+History of monty crlo
